@@ -670,25 +670,7 @@ void PlayMelody(int melodyArray[], int tempo)
           break;  
         }
     }  
-//    randSeq = random(3);
-//    switch (randSeq)
-//    {
-//      case 0:
-//        {
-//          PinWrite(1, 0, 1, 0, 1, 0, 1, 0);
-//          break;
-//        }
-//      case 1:
-//        {
-//          PinWrite(0, 1, 0, 1, 0, 1, 0, 1);
-//          break;
-//        }
-//      case 2:
-//        {
-//          PinWrite(1, 1, 1, 1, 1, 1, 1, 1);
-//          break;
-//        }
-//    }
+
     tone(speakerPin, melodyArray[melodyParse]);
     delay(tempo);
     melodyParse++;
