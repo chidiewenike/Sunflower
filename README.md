@@ -1,4 +1,7 @@
 # Sunflower
+
+![alt text](https://github.com/chidiewenike/Sunflower/blob/master/Demo/demo_gif.gif)
+
 I created a light-up sunflower that plays music. 
 
 I used an Arduino, LEDs, and a speaker driver to perform such. 
