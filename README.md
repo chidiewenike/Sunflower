@@ -10,3 +10,5 @@ To switch between different songs and light sequences, a button input is utilize
 The songs which are played are the Rick and Morty Theme Song, Melt For You Chorus, Every Step of the Way Intro by Majid Jordan, Bodak Yellow by Cardi B, The Game of Thrones Theme Song, and the Star Wars Theme Song. 
 
 The code for the Arduino is provided. Circuit schematic coming soon...
+
+![alt text](https://github.com/chidiewenike/Sunflower/blob/master/Demo/demo_gif.gif)
